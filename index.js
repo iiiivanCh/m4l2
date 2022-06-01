@@ -1,6 +1,5 @@
 "use strict";
 
-
 const productName = prompt("Назовите наименование товара");
 console.log(productName);
 const productAll = +prompt("Назовите количество товара");
